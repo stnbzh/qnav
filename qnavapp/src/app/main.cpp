@@ -1,4 +1,4 @@
-#include <qnavapp.h>
+#include "qnavapp.h"
 
 int main(int argc, char *argv[])
 {
